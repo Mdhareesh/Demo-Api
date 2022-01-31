@@ -1,0 +1,18 @@
+.detail {
+    display: flex;
+    align-items: center;
+    padding: 40px 0;
+}
+    .avatar {
+      margin: 0 20px 0 0;
+      border-radius: 50%;
+    }
+    .title {
+      color: #0b4084;
+      margin: 0 0 15px 0;
+    }
+    .description {
+      color: #969696;
+      margin: 0;
+    }
+ 
